@@ -1,5 +1,7 @@
 # OctoAcme — Execution & Tracking
 
+See also: [Weekly Status Update Template](templates/octoacme-weekly-status-update-template.md) | [Role Handoff Checklist](templates/octoacme-role-handoff-checklist.md) | [Role Interactions](octoacme-role-interactions.md)
+
 ## Purpose
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
@@ -32,6 +34,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+
+> For role-specific escalation paths, refer to the [Role Interactions & RACI-lite](octoacme-role-interactions.md#escalation-paths) doc.
+> Use the [Weekly Status Update Template](templates/octoacme-weekly-status-update-template.md) to communicate blockers and decisions needed to stakeholders.
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

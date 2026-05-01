@@ -1,5 +1,7 @@
 # OctoAcme — Project Planning
 
+See also: [Role Interactions & RACI-lite](octoacme-role-interactions.md) | [Weekly Status Update Template](templates/octoacme-weekly-status-update-template.md)
+
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
@@ -36,8 +38,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (see [Kickoff Checklist](templates/octoacme-kickoff-checklist.md))
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Role responsibilities confirmed against [RACI-lite matrix](octoacme-role-interactions.md)

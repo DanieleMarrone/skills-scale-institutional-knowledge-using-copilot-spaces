@@ -21,4 +21,13 @@ Roles are clearly defined to support each phase of the lifecycle. The **Project 
 | [Risks & Communication](octoacme-risks-and-communication.md) | Risk register format, escalation levels, and stakeholder communication strategies. |
 | [Release & Deployment](octoacme-release-and-deployment.md) | Release checklist, staging process, smoke tests, rollback playbook, and announcements. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retro formats, action-item tracking, and feedback loops for ongoing improvement. |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed descriptions of PM, Product Manager, Developer, QA, and Stakeholder personas. |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Detailed descriptions of all team roles including UI/UX Designer, Data Analyst, DevOps Engineer, Technical Writer, and Customer Support Lead. |
+| [Role Interactions & RACI-lite](octoacme-role-interactions.md) | Cross-functional responsibility matrix for lifecycle phases, key artifacts, handoff paths, and escalation guidance. |
+
+## Templates & Checklists
+
+| Template | Description |
+|---|---|
+| [Kickoff Checklist](templates/octoacme-kickoff-checklist.md) | Pre-kickoff prep, meeting agenda, post-kickoff actions, and role-readiness checks. |
+| [Weekly Status Update Template](templates/octoacme-weekly-status-update-template.md) | Structured template for weekly project health communication to stakeholders. |
+| [Role Handoff Checklist](templates/octoacme-role-handoff-checklist.md) | Checklists for key inter-role handoffs (Design→Dev, Dev→DevOps, Product→Support, etc.). |
