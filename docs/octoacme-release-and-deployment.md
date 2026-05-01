@@ -1,5 +1,7 @@
 # OctoAcme — Release & Deployment Guide
 
+See also: [Role Interactions & RACI-lite](octoacme-role-interactions.md) | [Role Handoff Checklist](templates/octoacme-role-handoff-checklist.md)
+
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
@@ -36,3 +38,25 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+---
+
+## Support Readiness
+
+Before announcing a release, confirm that customer-facing teams are prepared:
+
+### Roles Involved
+| Role | Responsibility |
+|------|---------------|
+| **Customer Support Lead** | Reviews release scope; updates FAQs and known-issues list; confirms support team is briefed |
+| **Technical Writer** | Publishes or updates user-facing release notes and help content |
+| **DevOps Engineer** | Provides deployment summary and monitors post-release health dashboards |
+
+### Support Readiness Checklist
+- [ ] Customer Support Lead has reviewed release scope and user impact
+- [ ] FAQs and help-center content updated (Customer Support Lead + Technical Writer)
+- [ ] Release notes published or queued (Technical Writer)
+- [ ] On-call rotation confirmed for post-release monitoring (DevOps Engineer)
+- [ ] Support escalation contact identified for critical post-release issues
+
+> Use the [Role Handoff Checklist — Product → Support Readiness](templates/octoacme-role-handoff-checklist.md#product--support-readiness-handoff-product-manager--customer-support-lead) section to ensure a complete handoff.

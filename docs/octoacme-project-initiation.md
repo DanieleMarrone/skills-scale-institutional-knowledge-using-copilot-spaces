@@ -1,5 +1,7 @@
 # OctoAcme — Project Initiation Guide
 
+See also: [Roles & Personas](octoacme-roles-and-personas.md) | [Kickoff Checklist](templates/octoacme-kickoff-checklist.md)
+
 ## Purpose
 Define the initial steps to validate and authorize work, align stakeholders, and create a lightweight plan.
 
@@ -35,6 +37,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+> For the full kickoff meeting checklist and role-readiness checks, see [templates/octoacme-kickoff-checklist.md](templates/octoacme-kickoff-checklist.md).
 
 ## Decision Gate
 Move to planning when:
